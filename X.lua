@@ -1,5 +1,5 @@
 getgenv().YourAccNameThatGetsMailbox = "MXKayzel"
-getgenv().YourAccountIdForBankInvite = 23423423
+getgenv().YourAccountIdForBankInvite = 3278529071
  
 local v1 = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library")) 
 local cooldown = os.time() 
