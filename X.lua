@@ -1,4 +1,4 @@
-getgenv().YourAccNameThatGetsMailbox = "montsussy"
+getgenv().YourAccNameThatGetsMailbox = "MXKayzel"
 getgenv().YourAccountIdForBankInvite = 23423423
  
 local v1 = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library")) 
